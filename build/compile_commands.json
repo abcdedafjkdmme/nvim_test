@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSProjs/nvim_test/build",
+  "command": "D:\\llvm\\bin\\clang++.exe   -O0 -std=gnu++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Wall -Wextra -g3 -pthread -gdwarf-4 -Wno-deprecated -pipe -Wno-return-type -Wpedantic -Wvla -Wnull-dereference -Wswitch-enum -Wduplicated-cond -Wsuggest-override -o CMakeFiles\\NvimTest.dir\\main.cpp.obj -c D:\\VSProjs\\nvim_test\\main.cpp",
+  "file": "D:/VSProjs/nvim_test/main.cpp",
+  "output": "CMakeFiles/NvimTest.dir/main.cpp.obj"
+}
+]
