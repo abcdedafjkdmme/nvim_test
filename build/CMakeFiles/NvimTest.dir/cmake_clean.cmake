@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NvimTest.dir/main.cpp.obj"
-  "CMakeFiles/NvimTest.dir/main.cpp.obj.d"
-  "NvimTest.exe"
-  "NvimTest.exe.manifest"
-  "NvimTest.lib"
+  "CMakeFiles/NvimTest.dir/main.cpp.o"
+  "CMakeFiles/NvimTest.dir/main.cpp.o.d"
+  "NvimTest"
   "NvimTest.pdb"
 )
 

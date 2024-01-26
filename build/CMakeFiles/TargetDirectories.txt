@@ -1,3 +1,3 @@
-D:/VSProjs/nvim_test/build/CMakeFiles/NvimTest.dir
-D:/VSProjs/nvim_test/build/CMakeFiles/edit_cache.dir
-D:/VSProjs/nvim_test/build/CMakeFiles/rebuild_cache.dir
+/home/abrka/projects/nvim_test/build/CMakeFiles/NvimTest.dir
+/home/abrka/projects/nvim_test/build/CMakeFiles/edit_cache.dir
+/home/abrka/projects/nvim_test/build/CMakeFiles/rebuild_cache.dir
